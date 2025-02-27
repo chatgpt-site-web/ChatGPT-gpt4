@@ -7,6 +7,7 @@
 本指南旨在为用户提供详尽的 **ChatGPT 中文版使用指南**，并整理国内常用的 **ChatGPT镜像网站** 与 **官方使用教程**，帮助您快速上手，不论是个人使用还是专业需求。
 
 **ChatGPT 中文版入口:** [https://www.yixiaai.com/](https://www.yixiaai.com/)
+
 **ChatGPT 官网入口:** [https://openai.com/](https://openai.com/)
 ---
 
